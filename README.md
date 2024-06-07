@@ -10,5 +10,4 @@ Meu nome é Camila
 
 00001117100662SP@AL.EDUCACAO.SP.GOV.BR
 
-![.].
-(https://tenor.com/b0xSa8wYtkx.gif)
+![.](https://tenor.com/b0xSa8wYtkx.gif)
